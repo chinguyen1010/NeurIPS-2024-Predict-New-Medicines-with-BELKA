@@ -31,12 +31,14 @@ One of the goals of this competition is to explore and compare many different wa
 
 We provide the molecules in SMILES format.
 
-SMILES
+SMILES:
+
 SMILES is a concise string notation used to represent the structure of chemical molecules. It encodes the molecular graph, including atoms, bonds, connectivity, and stereochemistry as a linear sequence of characters, by traversing the molecule graph. SMILES is widely used in machine learning applications for chemistry, such as molecular property prediction, drug discovery, and materials design, as it provides a standardized and machine-readable format for representing and manipulating chemical structures.
 
 The SMILES in this dataset should be sufficient to be translated into any other chemical representation format that you want to try. A simple way to perform some of these translations is with RDKit.
 
-Details about the experiments
+Details about the experiments:
+
 DELs are libraries of small molecules with unique DNA barcodes covalently attached
 Traditional high-throughput screening requires keeping individual small molecules in separate, identifiable tubes and demands a lot of liquid handling to test each one of those against the protein target of interest in a separate reaction. The logistical overhead of these efforts tends to restrict screening collections, called libraries, to 50K-5M small molecules. A scalable solution to this problem, DNA-encoded chemical libraries, was described in 2009. As DNA sequencing got cheaper and cheaper, it became clear that DNA itself could be used as a label to identify, and deconvolute, collections of molecules in a complex mixture. DELs leverage this DNA sequencing technology.
 
@@ -52,7 +54,8 @@ We could purchase ten different Mickey Mouse faces, ten different zipper ears, a
 <img width="764" height="610" alt="Screenshot 2025-11-07 at 12 38 29 AM" src="https://github.com/user-attachments/assets/db3d3371-a454-4f3a-a606-af6442093a92" />
 
 
-NeurIPS 2024
+NeurIPS 2024:
+
 This competition is an official NeurIPS 2024 competition and its results will be presented at the NeurIPS 2024 conference. The contribution of the winning team(s) will be highlighted. Attending the workshop is not required to participate in the competition.
 
 The thirty-eighth annual NeurIPS conference will be held Mon. Dec 9th through Sun the 15th, 2024 at the Vancouver Convention Center.
